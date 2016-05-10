@@ -17,3 +17,29 @@
 
 !SLIDE[bg=images/swag.jpg] center cover
 # *(But really it's about the swag)*
+
+!SLIDE[bg=images/kansas_city_to_baltimore.png]
+
+!SLIDE center cover
+# 10
+
+!SLIDE center cover
+# 1
+
+!SLIDE[bg=images/kc_first_fridays.jpg]
+
+!SLIDE center cover
+# 2
+
+!SLIDE center cover
+# Rails **CAN** Scale!
+
+!SLIDE[bg=images/shopify.png]
+
+!SLIDE[bg=images/shopify_light.png] center cover
+# How We Deploy Shopify
+## Kat Drobnjakovic
+
+!SLIDE[bg=images/shopify_light.png] center cover
+# Testing Rails at Scale
+## Emil Stolarsky
