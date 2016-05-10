@@ -49,3 +49,8 @@
 
 !SLIDE center
 ![A Rails app in a tweet](../images/140_characters.png)
+
+!SLIDE center cover
+# 4
+
+!SLIDE[bg=images/no_magic.jpg]
