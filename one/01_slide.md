@@ -63,6 +63,12 @@
 !SLIDE center cover
 # 6
 
+!SLIDE center
+![Love your bad code](../images/sandi_metz_quote.png)
+
+!SLIDE center cover
+# 7
+
 !SLIDE[bg=images/power_and_light.jpg]
 
 !SLIDE[bg=images/power_plant_live.jpg]
