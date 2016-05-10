@@ -54,3 +54,8 @@
 # 4
 
 !SLIDE[bg=images/no_magic.jpg]
+
+!SLIDE center cover
+# 5
+
+!SLIDE[bg=images/sandi.jpg] background-fit
