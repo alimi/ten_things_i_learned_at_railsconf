@@ -43,3 +43,9 @@
 !SLIDE[bg=images/shopify_light.png] center cover
 # Testing Rails at Scale
 ## Emil Stolarsky
+
+!SLIDE center cover
+# 3
+
+!SLIDE center
+![A Rails app in a tweet](../images/140_characters.png)
