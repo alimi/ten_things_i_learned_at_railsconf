@@ -15,4 +15,5 @@
 
 !SLIDE[bg=images/railsconf_room.jpg]
 
-!SLIDE[bg=images/swag.jpg]
+!SLIDE[bg=images/swag.jpg] center cover
+# *(But really it's about the swag)*
