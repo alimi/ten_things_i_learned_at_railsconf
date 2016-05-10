@@ -79,3 +79,19 @@
 !SLIDE[bg=images/power_plant_live.jpg]
 
 !SLIDE[bg=images/cordish_companies.png]
+
+!SLIDE center cover
+# 9
+
+!SLIDE center cover
+# Rails isn't cool anymore 😞
+
+!SLIDE[bg=images/searls_talk.png] background-fit
+
+!SLIDE center cover
+# #MakeRubyGreatAgain
+
+!SLIDE center cover
+# 10
+
+!SLIDE[bg=images/bmore_on_rails.jpg]
