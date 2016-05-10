@@ -101,3 +101,7 @@
 # 10
 
 !SLIDE[bg=images/bmore_on_rails.jpg]
+
+!SLIDE center cover
+# Ten Things I Learned at RailsConf
+## Ali Ibrahim - [@alimeye](https://twitter.com/alimeye)
