@@ -36,6 +36,10 @@
 
 !SLIDE[bg=images/shopify.png]
 
+!SLIDE[bg=images/shopify_yeezy.png]
+
+!SLIDE[bg=images/shopify.png]
+
 !SLIDE[bg=images/shopify_light.png] center cover
 # How We Deploy Shopify
 ## Kat Drobnjakovic
@@ -59,6 +63,8 @@
 # 5
 
 !SLIDE[bg=images/sandi.jpg] background-fit
+
+!SLIDE[bg=images/refactoring_book.png]
 
 !SLIDE center cover
 # 6
