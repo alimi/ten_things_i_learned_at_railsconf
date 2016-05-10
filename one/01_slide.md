@@ -69,6 +69,11 @@
 !SLIDE center cover
 # 7
 
+!SLIDE[bg=images/hashtag_railsconf.png]
+
+!SLIDE center cover
+# 8
+
 !SLIDE[bg=images/power_and_light.jpg]
 
 !SLIDE[bg=images/power_plant_live.jpg]
