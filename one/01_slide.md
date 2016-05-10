@@ -105,3 +105,7 @@
 !SLIDE center cover
 # Ten Things I Learned at RailsConf
 ## Ali Ibrahim - [@alimeye](https://twitter.com/alimeye)
+## #MakeRubyGreatAgain
+
+!SLIDE center cover
+# [One More Thing](/file/images/asl.mp4)
