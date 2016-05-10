@@ -59,3 +59,12 @@
 # 5
 
 !SLIDE[bg=images/sandi.jpg] background-fit
+
+!SLIDE center cover
+# 6
+
+!SLIDE[bg=images/power_and_light.jpg]
+
+!SLIDE[bg=images/power_plant_live.jpg]
+
+!SLIDE[bg=images/cordish_companies.png]
